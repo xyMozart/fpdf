@@ -1,6 +1,6 @@
 {
-    "name": "itbz/fpdf",
-    "description": "Unofficial PSR-0 compliant version of the FPDF library",
+    "name": "xyMozart/fpdf",
+    "description": "Fork of itbz/fpdf with barcode39 font",
     "homepage": "http://www.fpdf.org/",
     "license": "no usage restriction",
     "type": "library",
