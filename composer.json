@@ -1,5 +1,5 @@
 {
-    "name": "xyMozart/fpdf",
+    "name": "xy-mozart/fpdf",
     "description": "Fork of itbz/fpdf with barcode39 font",
     "homepage": "http://www.fpdf.org/",
     "license": "no usage restriction",
